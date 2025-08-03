@@ -1,8 +1,8 @@
-nexTTag – Camera App (APK Release)
+**nexTTag** – Camera App (APK Release)
 
 Welcome to the official release repository of the **nexTTag Camera App**.
 
-📷 nexTTag lets you capture photos with stamped:
+📷 **nexTTag** lets you capture photos with stamped:
 - 📍 Google Plus Code (location)
 - 🏷️ Project Name
 - 📅 Date & Time
@@ -26,10 +26,5 @@ If you find a bug or have a suggestion, [create an issue here](https://github.co
 🔒 License
 This release APK is free to use. Redistribution of the code is not permitted.
 
----
-
-## 🧑‍💻 Developed by
-
-**Sushant Upreti**  
-[Your contact or website, if you want]
-
+🧑‍💻 Developed by
+**Sushant**  
