@@ -12,7 +12,7 @@ Perfect for fieldwork, site documentation, and location-verified image capture.
 
 🔽 Download the Latest APK
 
-➡️ [Go to Releases](https://github.com/rocknroll38/nexTTag-v1.0.0/releases))  
+➡️ [Go to Releases](https://github.com/rocknroll38/nexTTag-v1.0.0/releases)  
 Download the latest signed APK from the release section.
 
  📢 What's Inside
